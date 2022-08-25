@@ -2491,6 +2491,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/24733/small/valas-finance.png"
+    },
+    {
+      "name": "MDB+",
+      "symbol": "MDB+",
+      "address": "0x9f8bb16f49393eea4331a39b69071759e54e16ea",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20408.png"
     }
   ]
 }
