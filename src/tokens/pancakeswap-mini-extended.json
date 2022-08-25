@@ -1824,7 +1824,7 @@
     "logoURI": "https://assets-cdn.trustwallet.com/blockchains/smartchain/assets/0x85EAC5Ac2F758618dFa09bDbe0cf174e7d574D5B/logo.png"
   },
   {
-    "name": "BSC-Peg Thunder Token",
+    "name": "ThunderCore",
     "symbol": "TT",
     "address": "0x990E7154bB999FAa9b2fa5Ed29E822703311eA85",
     "chainId": 56,
@@ -2270,5 +2270,45 @@
     "chainId": 56,
     "decimals": 18,
     "logoURI": "https://tokens.pancakeswap.finance/images/0xa865197A84E780957422237B5D152772654341F3.png"
+  },
+  {
+    "name": "Meta Apes Shell",
+    "symbol": "SHELL",
+    "address": "0x208cfEc94d2BA8B8537da7A9BB361c6baAD77272",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x208cfEc94d2BA8B8537da7A9BB361c6baAD77272.png"
+  },
+  {
+    "name": "Meta Apes Peel",
+    "symbol": "PEEL",
+    "address": "0x734548a9e43d2D564600b1B2ed5bE9C2b911c6aB",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x734548a9e43d2D564600b1B2ed5bE9C2b911c6aB.png"
+  },
+  {
+    "name": "pStake Finance",
+    "symbol": "PSTAKE",
+    "address": "0x4C882ec256823eE773B25b414d36F92ef58a7c0C",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x4C882ec256823eE773B25b414d36F92ef58a7c0C.png"
+  },
+  {
+    "name": "Staked BNB",
+    "symbol": "stkBNB",
+    "address": "0xc2E9d07F66A89c44062459A47a0D2Dc038E4fb16",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xc2E9d07F66A89c44062459A47a0D2Dc038E4fb16.png"
+  },
+  {
+    "name": "Wombat Token",
+    "symbol": "WOM",
+    "address": "0xAD6742A35fB341A9Cc6ad674738Dd8da98b94Fb1",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xAD6742A35fB341A9Cc6ad674738Dd8da98b94Fb1.png"
   }
 ]
